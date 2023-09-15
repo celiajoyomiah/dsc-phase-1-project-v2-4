@@ -1,4 +1,53 @@
-# Phase 1 Project Description
+# Phase 1 
+# MICROSOFT MOVIE STUDIO PROJECT.
+## Background overview
+Microsoft is a multinational computer technology corporation with its origin in the United States of America. It was founded on the 4th of April 1975 by two founders; Bill Gates who was a Harvard College student dropout and Paul Allen who was his childhood friend. The company is one of the world’s largest and most influential technology companies.
+The company's initial focus was on developing and selling a version of BASIC programming language for the Altair 8800, an early personal computer. They engaged in developing, licensing, and supporting a range of software products and services catering to different requirements. Microsoft retained its top priority in both business and personal computer markets. Most of the profits generated were from the business side however they recognized that they had a major presence in consumer markets as technology advanced. Their breakthrough came when they signed a contract with IBM PC in 1980.
+Over time Microsoft has come up with various products and services. Some of these products and services include: 
+1.	Operating Systems -Some of the Versions include Windows 10, Windows 11, and Windows Server for enterprise use.
+2.	Productivity Software – for example, Microsoft Office,365, Teams, OneDrive, and Outlook.
+3.	Cloud services example Microsoft Azure, Azure DevOps, Azure Active Directory
+4.	Development tools example of these is Visual Studio, GitHub
+5.	Gaming for example XBOX, XBOX Live, and XBOX Game Pass
+6.	Web browsers for example Internet Explorer and Microsoft Edge
+These are some of the products developed over time and Microsoft continues to innovate and expand its product portfolio, adapting to the evolving needs of consumers, businesses, and developers in the digital age.
+
+## Business Understanding
+The movie industry is a dynamic and influential sector that encompasses the creator, distribution exhibition, and marketing of films. It produces a wide range of content from blockbuster action movies to genres like comedy, drama, and science fiction. Film production involves pre-production, production, and post-production. It is a collaborative effort with various roles like directors, actors, writers, and crew members. The films are distributed to theaters, home entertainment platforms, and streaming services. The theatres are a traditional venue for viewing films while the digital platforms have gained prominence.
+The industry generates significant economic value through job creation, tourism merchandising, and related industries, contributing to local and global economies.  Companies like Amazon Prime Video the streaming service offered by Amazon.com. It provides a vast library of movies, TV shows, and original content available to subscribers for streaming
+## Business problem
+The key problem is that Microsoft wants to start creating a new movie studio but they don’t know anything about creating movies. In this case, they need to start exploring what types of films are currently doing the best at the box office and translate the findings into actionable insights that the head of Microsoft’s new movie studio can use to help decide what type of films to create.
+The following objectives listed below will guide the team in finding ways to start the new movie studio project.
+Objectives
+1.	To find out what genres of movies are doing well and their runtime.
+2.	To find the best production studios.
+3.	To find out the genres of movies which have high ratings
+
+## Data Understanding
+The data provided in the zipped data folder in the GitHub repository are movie datasets from:
+Box Office Mojo, IMDB, Rotten Tomatoes, The Movie DB and The Numbers.
+I intend to explore statistical data in these data sets with the help of Python data structures, Pandas, data visualization, Matplotlib, and Seaborn to help in the bar graphs to show a representation of the information analyzed. From the data sets provided it will be necessary to conduct data cleaning for the tables that will be used for the analysis. During this data-cleaning process, some of the columns in the tables that are not needed will be removed. Some of the tables will be joined to avoid duplication of multiple columns and for the Data Frame to have all the necessary information needed for the analysis. We can further add rows that have important data.
+ Data cleaning is the process of preparing data for analysis by removing information that is irrelevant or incorrect. This is data that can have a negative impact on the model.
+We will analyze each dataset separately because we will be using 2 datasets. The steps for our data cleaning are as
+ To ensure the datasets have no missing values.
+To make sure the datatypes for the datasets are correct.
+ To ensure there are no duplicates in the data.
+Findings from the data Visualization.
+ 
+ 
+ 
+ 
+## Recommendations 
+•	Microsoft should focus on Comedy, Documentary, Fantasy, and Family genres. These genres have very high ratings according to average ratings by the viewers.
+
+•	Microsoft should consider benchmarking with the studios that have performed well by their total gross from venturing into movie production. some of the top studios are BV, FOX, and WP. This will give them more insights into the best movies produced by these studios and help them venture into creating those genres.
+
+•	Microsoft should also consider the runtime minutes when entering the video content creation. This is because some of the genres with long runtime may affect their ratings because there are viewers with different preferences when it come to timing. 
+
+
+
+
+# Project Description
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
